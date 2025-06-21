@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Ezepue Francis
+- 👋 Hi
 - 👀 I’m interested in Software Engineering.
 - 💞️ I’m looking to collaborate on Software Engineering Projects
-- 📫 You can reach me @FrancisEzepue on X
